@@ -1,0 +1,58 @@
+body {
+    text-align: center;
+    border: 10px solid turquoise
+}
+
+#heading {
+    background-color: black;
+    color: white ;
+    font-family: sans-serif ;
+    font-size: 50px ;
+    font-weight: 600 ;
+    padding: 50px ;
+    width: 200px ;
+    margin: 20px auto ;
+    border: 10px solid turquoise ;
+}
+
+
+.intro {
+    margin-bottom: 50px ;
+    margin-top: 25px ;
+    border: 5px solid rgb(255, 78, 181)
+}
+
+button {
+    display: inline-block ;
+    background-color: white ;
+    color: black ;
+    font-size: 18px ;
+    margin: auto ;
+    border: 4px solid turquoise
+}
+
+.list {
+    color: black ;
+    font-size: 18px ;
+    font-weight: 100 ;
+}
+
+.steps {
+    color: black ;
+    font-size: 18px ;
+    font-weight: 100
+}
+
+#lasagnaimg {
+    height: auto ;
+    width: 600px
+}
+
+#burgerimg {
+    height: auto ;
+    width: 250px
+}
+
+img {
+    height: 220px;
+}
